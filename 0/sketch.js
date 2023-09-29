@@ -1,12 +1,29 @@
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  background(255);
+  strokeWeight(0);
+}
+
+function secondincrease() {
+  fill(random(0,255),255,255);
+  ellipse(x, y,10,10);
+  y = y+10; 
 }
 
 function draw() {
-  background(255);
-  fill(0);
-  rect(width / 2.5, height / 4, width / 20, height / 2);
-  rect(width - width / 2.5 - width / 20, height / 4, width / 20, height / 2);
-  rect(width / 2.5 + width / 20, height / 4 - width / 20, width - 2 * width / 2.5 - 2 * width / 20, width / 20);
-  rect(width / 2.5 + width / 20, height / 4 + height / 2, width - 2 * width / 2.5 - 2 * width / 20, width / 20);
-}
+  let x = 50;
+  let y = 50; 
+  let secondsNow = second();
+  
+ 
+  
+  }
+  
+
+  
+  
+  //let myDiameter = map(secondsNow, 0, 59, 100, height);
+  //ellipse(width / 2, height / 2, myDiameter, myDiameter);
+
+
+  
