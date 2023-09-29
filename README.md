@@ -1,4 +1,4 @@
 # p5.js multi sketch template
 
-By putting different sketch.js and index.html files in directories we can more easily switch between multiple experiments.
+For the firts attempt, I played around with the functions we used in class. I simply tried to play around with the shapes, colors, and orientations. I used a lot of the random() tool in order to get different patterns. 
 
