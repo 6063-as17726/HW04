@@ -9,4 +9,7 @@ This assignment was quite difficult for me, as I was struggling to understand th
 
 1 - 
 For the firts attempt, I played around with the functions we used in class. I simply tried to play around with the shapes, colors, and orientations. I used a lot of the random() tool in order to get different patterns. 
+Next, I experimented with the other tools such as doubleClicked(). 
+I created the different functions, and then tried running it. 
+This assignment was quite fun, as I got to experiment a lot with color and shapes, to create something visually interesting. The functions were quite straightforward to create. 
 
